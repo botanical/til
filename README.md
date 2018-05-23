@@ -8,3 +8,4 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 
 ### Vim
+- [Setting line numbers and relative line numbers]()
