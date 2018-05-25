@@ -4,6 +4,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ## Categories
 - [Vim](#Vim)
 - [Ruby](#Ruby)
+- [Slang](#Slang)
 
 
 
