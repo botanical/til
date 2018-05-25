@@ -4,4 +4,5 @@
 
 
 
-# **Dogfooding**: Refers to a situation where a company uses its own product. 
+#### **Dogfooding**: 
+Refers to a situation where a company uses its own product. 
