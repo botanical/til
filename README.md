@@ -15,6 +15,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Ruby
 - [Ruby's Each Iterator](ruby_each_iterator.md)
+- [Ruby's Freeze Method](ruby_freeze_method.md)
 
 ### Slang
 - [Technical Slang](tech_slang.md)
