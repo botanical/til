@@ -13,7 +13,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Setting line numbers and relative line numbers](line-and-relative-line-number.md)
 - [Insert text across multiple lines (a column) in Vim](insert-across-multi-line.md)
 - [Indent multiple lines quickly](indent-multi-lines.md)
-- [Repeat last command](repeat-last-command.md)
+- [Repeat last change](repeat-last-change.md)
 - [Find Next or Previous occurence of searched string](star-and-hash.md)
 
 ### Ruby
