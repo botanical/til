@@ -21,6 +21,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby's Each Iterator](ruby_each_iterator.md)
 - [Ruby's Freeze Method](ruby_freeze_method.md)
 - [Ruby's Hash Rocket](ruby_hash_rocket.md)
+- [Ruby's Symbols](ruby_symbol.md)
 
 ### Slang
 - [Technical Slang](tech_slang.md)
