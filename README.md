@@ -2,9 +2,11 @@
 Inspired by [slabounty](https://github.com/slabounty/til) 
 
 ## Categories
-- [Vim](#Vim)
+
 - [Ruby](#Ruby)
 - [Slang](#Slang)
+- [Vim](#Vim)
+
 
 
 
@@ -17,9 +19,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Find Next or Previous occurence of searched string](vim-star-and-hash.md)
 
 ### Ruby
-- [Ruby Gems](ruby_gems.md)
 - [Ruby's Each Iterator](ruby_each_iterator.md)
 - [Ruby's Freeze Method](ruby_freeze_method.md)
+- [Ruby Gems](ruby_gems.md)
 - [Ruby's Hash Rocket](ruby_hash_rocket.md)
 - [Ruby's Symbols](ruby_symbol.md)
 
