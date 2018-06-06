@@ -2,11 +2,14 @@
 Inspired by [slabounty](https://github.com/slabounty/til) 
 
 ## Categories
+- [Git](#Git)
 - [Libraries](#Libraries)
 - [Ruby](#Ruby)
 - [Slang](#Slang)
 - [Vim](#Vim)
 
+### Git
+- [Rebase](git_rebase.md)
 
 ### Libraries
 - [Dedupe Python Library](lib_dedupe.md)
