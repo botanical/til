@@ -2,7 +2,7 @@
 Inspired by [slabounty](https://github.com/slabounty/til) 
 
 ## Categories
-- [Libraries])(#Libraries)
+- [Libraries](#Libraries)
 - [Ruby](#Ruby)
 - [Slang](#Slang)
 - [Vim](#Vim)
