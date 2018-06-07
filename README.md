@@ -13,6 +13,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Libraries
 - [Dedupe Python Library](lib_dedupe.md)
+- [Factory Bot](lib_factory_bot.md)
 
 ### Ruby
 - [Ruby's Each Iterator](ruby_each_iterator.md)
