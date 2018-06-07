@@ -5,7 +5,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Git](#Git)
 - [Libraries](#Libraries)
 - [Ruby](#Ruby)
-- [Slang](#Slang)
+- [Language](#Language)
 - [Vim](#Vim)
 
 ### Git
@@ -22,8 +22,10 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby's Hash Rocket](ruby_hash_rocket.md)
 - [Ruby's Symbols](ruby_symbol.md)
 
-### Slang
-- [Technical Slang](tech_slang.md)
+### Language
+- [Acronyms](lang_acronyms.md)
+- [Technical Slang](lang_tech_slang.md)
+
 
 
 ### Vim
