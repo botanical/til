@@ -21,6 +21,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby Gems](ruby_gems.md)
 - [Ruby's Hash Rocket](ruby_hash_rocket.md)
 - [Ruby's Symbols](ruby_symbol.md)
+- [Ruby's Object Type Checker](ruby_is_a.md)
 
 ### Language
 - [Acronyms](lang_acronyms.md)
