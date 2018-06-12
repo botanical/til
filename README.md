@@ -16,12 +16,15 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Factory Bot](lib_factory_bot.md)
 
 ### Ruby
+- [Ruby's Count Method for Strings](ruby_count_str.md)
 - [Ruby's Each Iterator](ruby_each_iterator.md)
 - [Ruby's Freeze Method](ruby_freeze_method.md)
 - [Ruby Gems](ruby_gems.md)
 - [Ruby's Hash Rocket](ruby_hash_rocket.md)
-- [Ruby's Symbols](ruby_symbol.md)
+- [Ruby's Increment Operator](ruby_increment.md)
 - [Ruby's Object Type Checker](ruby_is_a.md)
+- [Ruby's Symbols](ruby_symbol.md)
+
 
 ### Language
 - [Acronyms](lang_acronyms.md)
