@@ -24,6 +24,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby's Increment Operator](ruby_increment.md)
 - [Ruby's MinMax Operator](ruby_min_max.md)
 - [Ruby's Object Type Checker](ruby_is_a.md)
+- [Ruby's Select Operator](ruby_select.md)
 - [Ruby's Symbols](ruby_symbol.md)
 
 
