@@ -22,6 +22,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby Gems](ruby_gems.md)
 - [Ruby's Hash Rocket](ruby_hash_rocket.md)
 - [Ruby's Increment Operator](ruby_increment.md)
+- [Ruby's MinMax Operator](ruby_min_max.md)
 - [Ruby's Object Type Checker](ruby_is_a.md)
 - [Ruby's Symbols](ruby_symbol.md)
 
