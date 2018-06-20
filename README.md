@@ -2,11 +2,15 @@
 Inspired by [slabounty](https://github.com/slabounty/til) 
 
 ## Categories
+- [Best OOP Practices](#Best OOP Practices)
 - [Git](#Git)
 - [Libraries](#Libraries)
 - [Ruby](#Ruby)
 - [Language](#Language)
 - [Vim](#Vim)
+
+### Best OOP Practices
+- [Recognizing Dependecies](bp_recognizing_dependencies.md)
 
 ### Git
 - [Rebase](git_rebase.md)
