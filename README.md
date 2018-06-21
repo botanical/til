@@ -29,6 +29,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby's MinMax Operator](ruby_min_max.md)
 - [Ruby's Object Type Checker](ruby_is_a.md)
 - [Ruby's Select Operator](ruby_select.md)
+- [Ruby's Send Method](ruby_send.md)
 - [Ruby's Symbols](ruby_symbol.md)
 
 
