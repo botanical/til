@@ -26,10 +26,12 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby Gems](ruby_gems.md)
 - [Ruby's Hash Rocket](ruby_hash_rocket.md)
 - [Ruby's Increment Operator](ruby_increment.md)
+- [Ruby's Index Method](ruby_index.md)
 - [Ruby's MinMax Operator](ruby_min_max.md)
 - [Ruby's Object Type Checker](ruby_is_a.md)
 - [Ruby's Select Operator](ruby_select.md)
 - [Ruby's Send Method](ruby_send.md)
+- [Ruby's Slice Method](ruby_slice.md)
 - [Ruby's Symbols](ruby_symbol.md)
 
 
