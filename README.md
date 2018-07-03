@@ -20,6 +20,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Factory Bot](lib_factory_bot.md)
 
 ### Ruby
+- [Ruby's Count Method for Arrays](ruby_count_array.md)
 - [Ruby's Count Method for Strings](ruby_count_str.md)
 - [Ruby's Each Iterator](ruby_each_iterator.md)
 - [Ruby's Freeze Method](ruby_freeze_method.md)
