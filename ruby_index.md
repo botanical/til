@@ -1,0 +1,2 @@
+### Ruby's Index Method
+
