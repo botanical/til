@@ -10,7 +10,8 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Language](#Language)
 - [Vim](#Vim)
 
-### OOP (Best Practices)
+### OOP
+#### Best Practices
 - [Recognizing Dependecies](bp_recognizing_dependencies.md)
 
 ### Business
