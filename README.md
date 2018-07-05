@@ -10,11 +10,13 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Language](#Language)
 - [Vim](#Vim)
 
+### Test
+
 ### Best OOP Practices
 - [Recognizing Dependecies](bp_recognizing_dependencies.md)
 
 ### Business Terms
-- [Quater - Q1, Q2, Q3. Q4](business_quarter.md)
+- [Quater - Q1, Q2, Q3, Q4](business_quarter.md)
 
 ### Git
 - [Rebase](git_rebase.md)
