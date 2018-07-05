@@ -2,8 +2,8 @@
 Inspired by [slabounty](https://github.com/slabounty/til) 
 
 ## Categories
-- [Best OOP Practices](#OOP)
-- [Business Terms](#Business)
+- [OOP](#OOP)
+- [Business](#Business)
 - [Git](#Git)
 - [Libraries](#Libraries)
 - [Ruby](#Ruby)
