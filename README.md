@@ -3,6 +3,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ## Categories
 - [Best OOP Practices](#Best OOP Practices)
+- [Business Terms](#Business Terms)
 - [Git](#Git)
 - [Libraries](#Libraries)
 - [Ruby](#Ruby)
@@ -11,6 +12,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Best OOP Practices
 - [Recognizing Dependecies](bp_recognizing_dependencies.md)
+
+### Business Terms
+- [Quater - Q1, Q2, Q3. Q4](business_quarter.md)
 
 ### Git
 - [Rebase](git_rebase.md)
