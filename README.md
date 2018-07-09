@@ -5,6 +5,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [OOP](#OOP)
 - [Business](#Business)
 - [Git](#Git)
+- [JIRA](#JIRA)
 - [Libraries](#Libraries)
 - [Ruby](#Ruby)
 - [Language](#Language)
@@ -19,6 +20,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Git
 - [Rebase](git_rebase.md)
+
+### JIRA
+- [Text Formatting](jira_text_formatting.md)
 
 ### Libraries
 - [Dedupe Python Library](lib_dedupe.md)
