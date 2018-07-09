@@ -6,9 +6,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Business](#Business)
 - [Git](#Git)
 - [JIRA](#JIRA)
+- [Language](#Language)
 - [Libraries](#Libraries)
 - [Ruby](#Ruby)
-- [Language](#Language)
 - [Vim](#Vim)
 
 ### OOP
@@ -23,6 +23,11 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### JIRA
 - [Text Formatting](jira_text_formatting.md)
+
+### Language
+- [Acronyms](lang_acronyms.md)
+- [Regular Expressions](lang_reg_exp.md)
+- [Technical Slang](lang_tech_slang.md)
 
 ### Libraries
 - [Dedupe Python Library](lib_dedupe.md)
@@ -43,14 +48,6 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby's Send Method](ruby_send.md)
 - [Ruby's Slice Method](ruby_slice.md)
 - [Ruby's Symbols](ruby_symbol.md)
-
-
-### Language
-- [Acronyms](lang_acronyms.md)
-- [Regular Expressions](lang_reg_exp.md)
-- [Technical Slang](lang_tech_slang.md)
-
-
 
 ### Vim
 - [Setting line numbers and relative line numbers](vim-line-and-relative-line-number.md)
