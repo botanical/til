@@ -9,4 +9,5 @@ anchors:
 * `^` matches the beginning of a line
 * `$` matches the end of a line
 * `\A` matches the beginning of a string
-* `\Z` matches the end of a string
+* `\Z` matches the end of a string. If the string ends with a newline, it matches just before the newline
+* `\z` matches the end of a string
