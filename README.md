@@ -43,6 +43,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Language
 - [Acronyms](lang_acronyms.md)
+- [Regular Expressions](lang_reg_exp.md)
 - [Technical Slang](lang_tech_slang.md)
 
 
