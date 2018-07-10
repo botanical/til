@@ -8,11 +8,11 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [JIRA](#JIRA)
 - [Language](#Language)
 - [Libraries](#Libraries)
+- [RSpec](#RSpec)
 - [Ruby](#Ruby)
 - [Vim](#Vim)
 
 ### OOP
-#### Best Practices
 - [Recognizing Dependecies](bp_recognizing_dependencies.md)
 
 ### Business
@@ -48,6 +48,10 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby's Send Method](ruby_send.md)
 - [Ruby's Slice Method](ruby_slice.md)
 - [Ruby's Symbols](ruby_symbol.md)
+
+### RSpec
+- [About](rspec_about.md)
+- [Aggregate Failures](rspec_af.md)
 
 ### Vim
 - [Setting line numbers and relative line numbers](vim-line-and-relative-line-number.md)
