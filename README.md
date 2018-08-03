@@ -4,6 +4,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ## Categories
 - [OOP](#OOP)
 - [Business](#Business)
+- [Computing](#Computing)
 - [Git](#Git)
 - [JIRA](#JIRA)
 - [Language](#Language)
@@ -13,10 +14,13 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Vim](#Vim)
 
 ### OOP
-- [Recognizing Dependecies](bp_recognizing_dependencies.md)
+- [Recognizing Dependencies](bp_recognizing_dependencies.md)
 
 ### Business
 - [Quater - Q1, Q2, Q3, Q4](business_quarter.md)
+
+### Computing
+- [Manifest File](computing_manifest_file.md)
 
 ### Git
 - [Rebase](git_rebase.md)
