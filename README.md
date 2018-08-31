@@ -40,6 +40,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Node
 - [What is Node?](node_def.md)
+- [Blocking vs Nonblocking I/O](node_blocking_vs_nonblocking.md)
 
 ### Ruby
 - [Ruby's Count Method for Arrays](ruby_count_array.md)
