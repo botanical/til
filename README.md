@@ -2,17 +2,17 @@
 Inspired by [slabounty](https://github.com/slabounty/til) 
 
 ## Categories
-- [OOP](#OOP)
-- [Business](#Business)
-- [Computing](#Computing)
-- [Git](#Git)
-- [JIRA](#JIRA)
-- [Language](#Language)
-- [Libraries](#Libraries)
-- [Node](#Node)
-- [RSpec](#RSpec)
-- [Ruby](#Ruby)
-- [Vim](#Vim)
+- [OOP](###OOP)
+- [Business](###Business)
+- [Computing](###Computing)
+- [Git](###Git)
+- [JIRA](###JIRA)
+- [Language](###Language)
+- [Libraries](###Libraries)
+- [Node](###Node)
+- [RSpec](###RSpec)
+- [Ruby](###Ruby)
+- [Vim](###Vim)
 
 ### OOP
 - [Recognizing Dependencies](bp_recognizing_dependencies.md)
