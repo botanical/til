@@ -39,8 +39,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Factory Bot](lib_factory_bot.md)
 
 ### Node
-- [What is Node?](node_def.md)
 - [Blocking vs Nonblocking I/O](node_blocking_vs_nonblocking.md)
+- [What is Node?](node_def.md)
+- [Template Literals](node_template_literals.md)
 
 ### Ruby
 - [Ruby's Count Method for Arrays](ruby_count_array.md)
