@@ -6,6 +6,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Business](#business)
 - [Computing](#computing)
 - [Git](#git)
+- [GraphQL](#graphql)
 - [JIRA](#jira)
 - [Language](#language)
 - [Libraries](#libraries)
@@ -25,6 +26,8 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Git
 - [Rebase](git_rebase.md)
+
+### GraphQL
 
 ### JIRA
 - [Text Formatting](jira_text_formatting.md)
