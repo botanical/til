@@ -23,6 +23,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Computing
 - [Manifest File](computing_manifest_file.md)
+- [Pagination](computing_pagination.md)
 
 ### Git
 - [Rebase](git_rebase.md)
