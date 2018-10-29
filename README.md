@@ -13,6 +13,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Node](#node)
 - [RSpec](#rSpec)
 - [Ruby](#ruby)
+- [Typescript)(#typescript)
 - [Vim](#vim)
 
 ### OOP
@@ -66,6 +67,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### RSpec
 - [About](rspec_about.md)
 - [Aggregate Failures](rspec_af.md)
+
+### Typescript
+- [Arrow Function](ts_arrow.md)
 
 ### Vim
 - [Setting line numbers and relative line numbers](vim-line-and-relative-line-number.md)
