@@ -70,6 +70,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### Typescript
 - [Arrow Function](ts_arrow.md)
+- [Rest Parameters](ts_rest_params.md)
 
 ### Vim
 - [Setting line numbers and relative line numbers](vim-line-and-relative-line-number.md)
