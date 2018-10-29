@@ -13,7 +13,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Node](#node)
 - [RSpec](#rSpec)
 - [Ruby](#ruby)
-- [Typescript)(#typescript)
+- [Typescript](#typescript)
 - [Vim](#vim)
 
 ### OOP
