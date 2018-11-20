@@ -7,6 +7,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Computing](#computing)
 - [Git](#git)
 - [GraphQL](#graphql)
+- [Jest](#jest)
 - [JIRA](#jira)
 - [Language](#language)
 - [Libraries](#libraries)
@@ -30,6 +31,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Rebase](git_rebase.md)
 
 ### GraphQL
+
+### Jest
+- [jest.doMock()](jest_do_mock.md)
 
 ### JIRA
 - [Text Formatting](jira_text_formatting.md)
