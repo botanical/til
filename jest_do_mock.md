@@ -34,8 +34,8 @@ beforeEach(() => {
 })
 
 test('khaki an unmocked test', () => {
-  const khaki = require('../index')
-  // and we are assuming that, in index.ts, khaki.talk() returns purr always...
+  const khaki = require('../khaki')
+  // and we are assuming that, in khaki.ts, khaki.talk() returns purr always...
   const result = khaki.talk() 
   expect(khaki()).toEqual("purr")
 })
