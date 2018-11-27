@@ -53,6 +53,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Template Literals](node_template_literals.md)
 
 ### Ruby
+- [Ruby's attr_reader](ruby_attr_reader.md)
 - [Ruby's Count Method for Arrays](ruby_count_array.md)
 - [Ruby's Count Method for Strings](ruby_count_str.md)
 - [Ruby's Each Iterator](ruby_each_iterator.md)
