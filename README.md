@@ -2,7 +2,7 @@
 Inspired by [slabounty](https://github.com/slabounty/til) 
 
 ### Categories
-- [OOP](#oop)
+- [Animals](#animals)
 - [Business](#business)
 - [Computing](#computing)
 - [Git](#git)
@@ -13,6 +13,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Language](#language)
 - [Libraries](#libraries)
 - [Node](#node)
+- [OOP](#oop)
 - [Psychology](#psychology)
 - [RSpec](#rSpec)
 - [Ruby](#ruby)
@@ -20,8 +21,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Typescript](#typescript)
 - [Vim](#vim)
 
-### OOP
-- [Recognizing Dependencies](bp_recognizing_dependencies.md)
+
+### Animals
+- [Flamingoes](animals_flamingoes.md)
 
 ### Business
 - [Quater - Q1, Q2, Q3, Q4](business_quarter.md)
@@ -56,6 +58,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Blocking vs Nonblocking I/O](node_blocking_vs_nonblocking.md)
 - [What is Node?](node_def.md)
 - [Template Literals](node_template_literals.md)
+
+### OOP
+- [Recognizing Dependencies](bp_recognizing_dependencies.md)
 
 ### Psychology
 
