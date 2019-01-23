@@ -7,11 +7,13 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Computing](#computing)
 - [Git](#git)
 - [GraphQL](#graphql)
+- [History](#history)
 - [Jest](#jest)
 - [JIRA](#jira)
 - [Language](#language)
 - [Libraries](#libraries)
 - [Node](#node)
+- [Psychology](#psychology)
 - [RSpec](#rSpec)
 - [Ruby](#ruby)
 - [Serverless](#serverless)
@@ -33,6 +35,8 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 
 ### GraphQL
 
+### History
+
 ### Jest
 - [jest.doMock()](jest_do_mock.md)
 
@@ -52,6 +56,8 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Blocking vs Nonblocking I/O](node_blocking_vs_nonblocking.md)
 - [What is Node?](node_def.md)
 - [Template Literals](node_template_literals.md)
+
+### Psychology
 
 ### Ruby
 - [Ruby's attr_reader](ruby_attr_reader.md)
