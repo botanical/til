@@ -19,6 +19,7 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 - [Ruby](#ruby)
 - [Serverless](#serverless)
 - [Typescript](#typescript)
+- [Unix](#unix)
 - [Vim](#vim)
 
 
@@ -92,6 +93,9 @@ Inspired by [slabounty](https://github.com/slabounty/til)
 ### Typescript
 - [Arrow Function](ts_arrow.md)
 - [Rest Parameters](ts_rest_params.md)
+
+### Unix
+- [Commands](unix_commands.md)
 
 ### Vim
 - [Setting line numbers and relative line numbers](vim-line-and-relative-line-number.md)
