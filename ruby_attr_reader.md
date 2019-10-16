@@ -9,17 +9,20 @@ Imagine you had a class definition of a Cat
 ```Ruby
 # cat.rb
 class Cat
-  def initialize(name)
+  def initialize(name, age, color, breed)
     @name = name
+    @age = age
+    @color = color
+    @breed = breed
   end
 end
 
-rescue = Cat.new("Khaki")
-puts rescue.name # => undefined method name
+cat = Cat.new("Khaki", 3, "Cream", "Tabby")
+puts cat.name # => undefined method name
 
 ```
 
-In order to access the name of the Cat, you need to create a getter method called `name`
+In order to access the name, age, breed, or color of the Cat, you need to create getter methods for `name`, `age`, `breed`, and `color` like this:
 
 ```Ruby
 # cat.rb
@@ -31,16 +34,28 @@ class Cat
   def name
     @name
   end
+  
+  def age
+    @age
+  end
+  
+  def breed
+    @breed
+  end
+  
+  def color
+    @color
+  end
 end
 
-rescue = Cat.new("Khaki")
-puts rescue.name # => Khaki
+cat = Cat.new("Khaki", 3, "Cream", "Tabby")
+puts cat.name # => Khaki
 
 ```
 
 `attr_reader` is useful because it takes away the need to write many getter methods if you have more variables.
 
-So, with `attr_reader` this is the new code
+So, with `attr_reader` this is the new code:
 
 ```Ruby
 # cat.rb
@@ -54,7 +69,7 @@ class Cat
   end
 end
 
-rescue = Cat.new("Khaki", 1, "Cream", "Tabby")
-puts rescue.name # => Khaki
+cat = Cat.new("Khaki", 1, "Cream", "Tabby")
+puts cat.name # => Khaki
 
 ```
