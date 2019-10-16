@@ -1,6 +1,6 @@
 #### Ruby's attr_reader
 
-`attr_reader` is a method that you can use to share instance variables instead of creating many getter methods. 
+`attr_reader` is a Ruby method that you can use to share instance variables instead of creating many getter methods. 
 
 Here is an example of it's utility in depth:
 
@@ -19,7 +19,7 @@ puts rescue.name # => undefined method name
 
 ```
 
-In order to access the name of the Cat, you need to create a getter method
+In order to access the name of the Cat, you need to create a getter method called `name`
 
 ```Ruby
 # cat.rb
@@ -45,13 +45,16 @@ So, with `attr_reader` this is the new code
 ```Ruby
 # cat.rb
 class Cat
-  attr_reader :name
-  def initialize(name)
+  attr_reader :name, :age, :color, :breed
+  def initialize(name, age, color, breed)
     @name = name
+    @age = age
+    @color = color
+    @breed = breed
   end
 end
 
-rescue = Cat.new("Khaki")
+rescue = Cat.new("Khaki", 1, "Cream", "Tabby")
 puts rescue.name # => Khaki
 
 ```
