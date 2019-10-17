@@ -1,8 +1,10 @@
 #### Ruby's attr_reader
 
-A getter method in Ruby retrieves the value  of an instance variable from an object. They are useful when you want to retrieve a value and perform an additional computation with that value. If you simply want to retrieve the value, however, there is a better alternative: **attr_reader**!
+Getter methods are used in Ruby to retrieve the value of an instance variable from an object and, from there, you can perform additional computations with that retrieved value. 
 
-`attr_reader` is a Ruby method that you can use to share instance variables. Using `attr_reader` is especially useful when you want to read the values of a Class that has many instance variables
+If you only want to retrieve the value, however, there is a better alternative: **attr_reader**!
+
+`attr_reader` is a Ruby method that can be used to replace getter methods as a way for accessing instance variables. Using `attr_reader` is especially useful when you want to read the values of a Class that has many instance variables
 
 Here is an example of it's utility in depth:
 
@@ -55,7 +57,7 @@ puts cat.name # => Khaki
 
 ```
 
-`attr_reader` is useful because it takes away the need to write many getter methods if you have more variables.
+`attr_reader` can replace a bunch of getter methods in just one line!
 
 So, with `attr_reader` this is the new code:
 
