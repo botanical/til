@@ -1,7 +1,7 @@
 ## Ruby's attr_reader and attr_writer
 
 ### Getter Methods and Setter Methods
-Getter methods are used to retrieve the value of an instance variable from an object and Setter methods are used to set the value of an instance variable. In many languages, you can read and write the value of an instance variable directly but in Ruby you have to specify a getter and setter
+**Getter** methods are used to retrieve the value of an instance variable from an object and **Setter** methods are used to set the value of an instance variable. In many languages, you can read and write the value of an instance variable directly but in Ruby you have to specify a getter and setter
 
 For example, let's say you have a Ruby program with a `class Cat` and you create a new instance of Cat attached to a variable `tabby`:
 ```Ruby
